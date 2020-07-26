@@ -1,0 +1,334 @@
+City,1st Most Common Res,2nd Most Common Res,3rd Most Common Res,4th Most Common Res,5th Most Common Res,Cluster Labels,2019estimate,2016 population density,lantitude,longitude
+Abilene,Chinese Restaurant,Mexican Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,3,0.014804211247530083,0.03450358894179518,32.4545,99.7381
+Akron,Italian Restaurant,American Restaurant,Thai Restaurant,Pizza Place,Vietnamese Restaurant,0,0.023701731728068397,0.10706417454338711,41.0805,81.5214
+Albuquerque,Mexican Restaurant,American Restaurant,Chinese Restaurant,Pizza Place,Italian Restaurant,1,0.06723345372700397,0.09938881387250373,35.1056,106.6474
+Alexandria,Latin American Restaurant,American Restaurant,Sushi Restaurant,Mexican Restaurant,Chinese Restaurant,4,0.01912336566821606,0.3628739961623197,38.8201,77.0841
+Allen,Mexican Restaurant,Italian Restaurant,Sushi Restaurant,Seafood Restaurant,Korean Restaurant,1,0.012669463657412654,0.12579063321725534,33.0997,96.6631
+Allentown,Chinese Restaurant,Caribbean Restaurant,Pizza Place,Latin American Restaurant,Bar,4,0.01456695043204139,0.23832705564636486,40.5936,75.4784
+Amarillo,Mexican Restaurant,Thai Restaurant,Vietnamese Restaurant,Italian Restaurant,Breakfast Spot,2,0.023914522772900015,0.06371260038376804,35.1999,101.8302
+Anaheim,American Restaurant,Mexican Restaurant,Thai Restaurant,Japanese Restaurant,Italian Restaurant,0,0.04202623135424467,0.24326629237438704,33.8555,117.7601
+Ann Arbor,Sushi Restaurant,Mexican Restaurant,Japanese Restaurant,Chinese Restaurant,Bar,4,0.014391583742332355,0.14650700021320445,42.2761,83.7309
+Antioch,Chinese Restaurant,Vietnamese Restaurant,Italian Restaurant,Mexican Restaurant,Thai Restaurant,3,0.013374648861789818,0.12781607561651623,37.9791,121.7962
+Arlington,Mexican Restaurant,Vietnamese Restaurant,Chinese Restaurant,Japanese Restaurant,Italian Restaurant,1,0.04784247992969019,0.13947125293156137,32.7007,97.1247
+Arvada,Mexican Restaurant,Pizza Place,Japanese Restaurant,Italian Restaurant,Vietnamese Restaurant,2,0.014546558956493828,0.10191173335228484,39.8337,105.1503
+Athens,Mexican Restaurant,Chinese Restaurant,Pizza Place,Japanese Restaurant,Breakfast Spot,1,0.015223196095104403,0.031447658304313834,33.9496,83.3701
+Atlanta,American Restaurant,Caribbean Restaurant,Mexican Restaurant,Chinese Restaurant,Japanese Restaurant,0,0.06079190655138526,0.1195366356335726,33.7629,84.4227
+Augusta,Chinese Restaurant,Caribbean Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.023736637136211578,0.01694975481486746,33.3655,82.0734
+Aurora,Mexican Restaurant,Chinese Restaurant,Seafood Restaurant,American Restaurant,Vietnamese Restaurant,2,0.04549566099387812,0.0774998223296141,39.688,104.6897
+Aurora,Mexican Restaurant,Chinese Restaurant,Seafood Restaurant,American Restaurant,Vietnamese Restaurant,2,0.02372092370505434,0.15293866818278729,41.7635,88.2901
+Aurora,Mexican Restaurant,Chinese Restaurant,Seafood Restaurant,American Restaurant,Vietnamese Restaurant,2,0.04549566099387812,0.0774998223296141,39.688,104.6897
+Aurora,Mexican Restaurant,Chinese Restaurant,Seafood Restaurant,American Restaurant,Vietnamese Restaurant,2,0.02372092370505434,0.15293866818278729,41.7635,88.2901
+Austin,Mexican Restaurant,Italian Restaurant,Vietnamese Restaurant,Japanese Restaurant,Indian Restaurant,2,0.11741987379595833,0.10148532442612465,30.3039,97.7544
+Bakersfield,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,2,0.04607813749540142,0.0836472176817568,35.3212,119.0183
+Baltimore,American Restaurant,Indian Restaurant,Italian Restaurant,Caribbean Restaurant,Latin American Restaurant,0,0.07118904013366252,0.26376945490725606,39.3,76.6105
+Baton Rouge,Italian Restaurant,Seafood Restaurant,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,1,0.02641727652172286,0.08798237509771871,30.4422,91.1309
+Beaumont,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Breakfast Spot,Thai Restaurant,1,0.014013141946140836,0.04498614170989979,30.0849,94.1453
+Bellevue,Chinese Restaurant,Thai Restaurant,Japanese Restaurant,Seafood Restaurant,Mexican Restaurant,4,0.017772250488405826,0.14377087627034327,47.5979,122.1565
+Bend,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Sushi Restaurant,Japanese Restaurant,1,0.012045484505657254,0.1015919266576647,44.05,121.3
+Berkeley,Japanese Restaurant,Thai Restaurant,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,4,0.01455747439340458,0.4040935256911378,37.867,122.2991
+Billings,American Restaurant,Mexican Restaurant,Korean Restaurant,Italian Restaurant,Chinese Restaurant,0,0.013143745388677717,0.08350508137303675,45.7885,108.5499
+Birmingham,American Restaurant,Seafood Restaurant,Mexican Restaurant,Italian Restaurant,Indian Restaurant,0,0.025117859729918503,0.04537701655887997,33.5274,86.79899999999999
+Boise,Chinese Restaurant,Breakfast Spot,Mexican Restaurant,American Restaurant,Vietnamese Restaurant,1,0.02746359911702512,0.09036315826877976,43.6002,116.2317
+Boston,Chinese Restaurant,Seafood Restaurant,Italian Restaurant,American Restaurant,Bar,4,0.08307727037789123,0.4890555042285552,42.332,71.0202
+Boulder,Mexican Restaurant,Indian Restaurant,Breakfast Spot,American Restaurant,Thai Restaurant,1,0.012675461150220762,0.1486390448440054,40.027,105.2519
+Bridgeport,Latin American Restaurant,Pizza Place,Chinese Restaurant,Italian Restaurant,Seafood Restaurant,4,0.01732063927995541,0.31586241205315896,41.1874,73.1958
+Broken Arrow,Mexican Restaurant,Chinese Restaurant,American Restaurant,Thai Restaurant,Breakfast Spot,1,0.0132182342493544,0.055646364863904486,36.0365,95.781
+Buffalo,Italian Restaurant,Bar,Seafood Restaurant,Pizza Place,Mexican Restaurant,4,0.03062127908049319,0.21974273328121668,42.8925,78.8597
+Burbank,American Restaurant,Mexican Restaurant,Japanese Restaurant,Italian Restaurant,Thai Restaurant,0,0.012296179705036107,0.20709260180513112,34.1901,118.3264
+Cambridge,Vietnamese Restaurant,Indian Restaurant,Chinese Restaurant,Bar,American Restaurant,4,0.014265276543793632,0.6081301968587876,42.376000000000005,71.1187
+Cape Coral,Italian Restaurant,Caribbean Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,0,0.023329647274253473,0.05429606993106389,26.6432,81.9974
+Carlsbad,American Restaurant,Japanese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,0,0.013840054303698881,0.10120105180868452,33.1239,117.2828
+Carmel,American Restaurant,Italian Restaurant,Chinese Restaurant,Thai Restaurant,Mexican Restaurant,0,0.012123092062594152,0.06939805273257053,39.9667,86.1
+Carrollton,Korean Restaurant,Indian Restaurant,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,4,0.016702777570864275,0.1243337360528747,32.9884,96.8998
+Cary,Chinese Restaurant,Italian Restaurant,Sushi Restaurant,Mexican Restaurant,Japanese Restaurant,4,0.02042530140699982,0.09587094023168219,35.7809,78.8133
+Cedar Rapids,American Restaurant,Mexican Restaurant,Bar,Vietnamese Restaurant,Seafood Restaurant,0,0.016020742688726403,0.05959064743088622,41.967,91.6778
+Centennial,American Restaurant,Italian Restaurant,Mexican Restaurant,Sushi Restaurant,Vietnamese Restaurant,0,0.013306877193058213,0.12621704214341553,39.5906,104.8691
+Chandler,Chinese Restaurant,Mexican Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.03132670418458268,0.1292729727808969,33.2829,111.8549
+Charleston,American Restaurant,Seafood Restaurant,Mexican Restaurant,Korean Restaurant,Caribbean Restaurant,0,0.016501021912799573,0.037595053656456545,32.8179,79.959
+Charlotte,American Restaurant,Italian Restaurant,Thai Restaurant,Japanese Restaurant,Indian Restaurant,0,0.10624054720164783,0.09174898727880038,35.2078,80.831
+Chattanooga,American Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,Seafood Restaurant,0,0.021926713756581197,0.03787932627389667,35.066,85.2484
+Chicago,Mexican Restaurant,Chinese Restaurant,American Restaurant,Pizza Place,Vietnamese Restaurant,2,0.3231420337042303,0.4166370549356833,41.8376,87.6818
+Chico,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,Breakfast Spot,American Restaurant,1,0.01239094009140419,0.10400824390590577,39.74,121.8356
+Chula Vista,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,Seafood Restaurant,3,0.032925275917655386,0.1852036102622415,32.6277,117.0152
+Cincinnati,Indian Restaurant,American Restaurant,Seafood Restaurant,Mexican Restaurant,Japanese Restaurant,0,0.03645755928191779,0.13094307440835762,39.1402,84.5058
+Clarksville,Mexican Restaurant,Japanese Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,1,0.018969589952616207,0.04811314050174117,36.5664,87.3452
+Clearwater,American Restaurant,Mexican Restaurant,Breakfast Spot,Italian Restaurant,Chinese Restaurant,0,0.014027655878736453,0.15066448724326628,27.9789,82.7666
+Cleveland,American Restaurant,Chinese Restaurant,Pizza Place,Italian Restaurant,Vietnamese Restaurant,0,0.045701974746476984,0.1702082296922749,41.4785,81.6794
+Clinton,Italian Restaurant,Chinese Restaurant,Breakfast Spot,American Restaurant,Vietnamese Restaurant,4,0.012051481998465362,0.12074479425769313,42.5903,82.917
+Clovis,Mexican Restaurant,Italian Restaurant,Japanese Restaurant,Chinese Restaurant,American Restaurant,1,0.013744334318481502,0.15027361239428613,36.8282,119.6849
+College Station,American Restaurant,Japanese Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,0,0.014143407489932909,0.07192097221235165,30.5852,96.2964
+Colorado Springs,Mexican Restaurant,Italian Restaurant,American Restaurant,Thai Restaurant,Korean Restaurant,1,0.057362540163709966,0.07828157202757445,38.8673,104.7607
+Columbia,American Restaurant,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,Seafood Restaurant,0,0.015794277360292302,0.029528818136592992,34.0291,80.898
+Columbia,American Restaurant,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,Seafood Restaurant,0,0.014777222529893603,0.059732783739606284,38.951561,92.328638
+Columbia,American Restaurant,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,Seafood Restaurant,0,0.015794277360292302,0.029528818136592992,34.0291,80.898
+Columbia,American Restaurant,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,Seafood Restaurant,0,0.014777222529893603,0.059732783739606284,38.951561,92.328638
+Columbus,Italian Restaurant,Chinese Restaurant,Mexican Restaurant,Thai Restaurant,Sushi Restaurant,4,0.10778130310405039,0.13364366427403881,39.9852,82.9848
+Columbus,Italian Restaurant,Chinese Restaurant,Mexican Restaurant,Thai Restaurant,Sushi Restaurant,4,0.023482463391004026,0.02622414895885154,32.5102,84.8749
+Columbus,Italian Restaurant,Chinese Restaurant,Mexican Restaurant,Thai Restaurant,Sushi Restaurant,1,0.10778130310405039,0.13364366427403881,39.9852,82.9848
+Columbus,Italian Restaurant,Chinese Restaurant,Mexican Restaurant,Thai Restaurant,Sushi Restaurant,1,0.023482463391004026,0.02622414895885154,32.5102,84.8749
+Concord,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,Latin American Restaurant,Korean Restaurant,1,0.015508916652482597,0.14377087627034327,37.9722,122.0016
+Coral Springs,Italian Restaurant,Chinese Restaurant,Pizza Place,Caribbean Restaurant,Mexican Restaurant,4,0.016044372810390343,0.1879752682822827,26.2707,80.2593
+Corona,Mexican Restaurant,Sushi Restaurant,American Restaurant,Thai Restaurant,Pizza Place,1,0.020375642166548694,0.14380641034752328,33.861999999999995,117.5655
+Costa Mesa,American Restaurant,Japanese Restaurant,Mexican Restaurant,Sushi Restaurant,Pizza Place,0,0.013554693595889174,0.24912941510908962,33.6659,117.9123
+Dallas,Mexican Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,Italian Restaurant,1,0.16116138809332148,0.13115627887143771,32.7933,96.7665
+Daly City,Chinese Restaurant,Latin American Restaurant,Pizza Place,Mexican Restaurant,Korean Restaurant,3,0.012748270712911175,0.4915784237083363,37.7009,122.465
+Davenport,Mexican Restaurant,Chinese Restaurant,Italian Restaurant,Sushi Restaurant,Breakfast Spot,1,0.012185705887510785,0.05173761637410276,41.5541,90.604
+Davie,Chinese Restaurant,Thai Restaurant,Sushi Restaurant,Pizza Place,Mexican Restaurant,4,0.01275138940917139,0.0975055077819629,26.0791,80.285
+Dayton,American Restaurant,Seafood Restaurant,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,0,0.016841799454156186,0.0833984791414967,39.7774,84.1996
+Denton,American Restaurant,Thai Restaurant,Mexican Restaurant,Italian Restaurant,Indian Restaurant,0,0.01697782259104404,0.04470186909245967,33.2166,97.1414
+Denver,Mexican Restaurant,Chinese Restaurant,Bar,Vietnamese Restaurant,Thai Restaurant,1,0.08722885484951871,0.15443109942434796,39.7619,104.8811
+Des Moines,Mexican Restaurant,Italian Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.02569769733460624,0.07991613957785516,41.5726,93.6102
+Detroit,American Restaurant,Bar,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,0,0.08037012207416812,0.16601520858503305,42.383,83.1022
+Downey,Mexican Restaurant,Chinese Restaurant,American Restaurant,Italian Restaurant,Latin American Restaurant,1,0.013329547715872856,0.3183497974557601,33.9382,118.1309
+Durham,Mexican Restaurant,Italian Restaurant,American Restaurant,Sushi Restaurant,Seafood Restaurant,1,0.03346517022024113,0.07888565133963471,35.9811,78.9029
+Edinburg,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.01213532694792269,0.08940373818491934,26.3042,98.1639
+El Cajon,Mexican Restaurant,Italian Restaurant,American Restaurant,Thai Restaurant,Pizza Place,1,0.012319809826700046,0.24806339279368914,32.8017,116.9604
+El Monte,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Seafood Restaurant,American Restaurant,1,0.013852649038595906,0.42242910951602586,34.0746,118.0291
+El Paso,Mexican Restaurant,Korean Restaurant,Japanese Restaurant,Italian Restaurant,Chinese Restaurant,1,0.08177317554169655,0.08830218179233885,31.8484,106.427
+Elgin,Mexican Restaurant,Chinese Restaurant,American Restaurant,Thai Restaurant,Italian Restaurant,1,0.013296321605715946,0.10031269987918413,42.0396,88.3217
+Elizabeth,Chinese Restaurant,Latin American Restaurant,Mexican Restaurant,Pizza Place,Italian Restaurant,4,0.015499440613845788,0.3654324497192808,40.6664,74.1935
+Elk Grove,American Restaurant,Chinese Restaurant,Mexican Restaurant,Sushi Restaurant,Indian Restaurant,0,0.020964236110736268,0.13669959491152014,38.4146,121.385
+Escondido,Mexican Restaurant,Chinese Restaurant,American Restaurant,Italian Restaurant,Thai Restaurant,1,0.01818739694058296,0.13900930992822116,33.1331,117.074
+Eugene,Chinese Restaurant,Mexican Restaurant,American Restaurant,Sushi Restaurant,Italian Restaurant,1,0.020705984070419202,0.1279937460024163,44.0567,123.1162
+Evansville,Mexican Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,Seafood Restaurant,2,0.014151564080151934,0.08354061545021675,37.9877,87.5347
+Everett,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Sushi Restaurant,Bar,1,0.01337141021567344,0.11015563925804847,47.9566,122.1914
+Fairfield,Chinese Restaurant,Mexican Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,1,0.014050086501838772,0.09349015706062114,38.2593,122.0321
+Fargo,Mexican Restaurant,American Restaurant,Italian Restaurant,Indian Restaurant,Chinese Restaurant,1,0.014953188968883448,0.08084002558453557,46.8652,96.829
+Fayetteville,Japanese Restaurant,Thai Restaurant,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,4,0.025388226705707947,0.043031767464998934,35.0828,78.9735
+Fontana,Mexican Restaurant,Latin American Restaurant,Italian Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.0257348817900165,0.1670456968232535,34.109,117.4629
+Fort Collins,Chinese Restaurant,Sushi Restaurant,Mexican Restaurant,Pizza Place,Italian Restaurant,3,0.020420623362609493,0.09835832563428328,40.5482,105.0648
+Fort Lauderdale,Italian Restaurant,American Restaurant,Sushi Restaurant,Pizza Place,Caribbean Restaurant,4,0.021883291908650508,0.17735057920545805,26.1412,80.1467
+Fort Wayne,Mexican Restaurant,American Restaurant,Italian Restaurant,Vietnamese Restaurant,Seafood Restaurant,0,0.03243468100595227,0.07874351503091465,41.0882,85.1439
+Fort Worth,Mexican Restaurant,Seafood Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.109104589917231,0.08229692274891622,32.7815,97.3467
+Fremont,Vietnamese Restaurant,Indian Restaurant,Chinese Restaurant,Seafood Restaurant,Mexican Restaurant,4,0.02892110981925116,0.1006680406509843,37.4945,121.9412
+Fresno,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,American Restaurant,Vietnamese Restaurant,1,0.06376246473924041,0.1559235306659086,36.7836,119.7934
+Frisco,Mexican Restaurant,Latin American Restaurant,Japanese Restaurant,Italian Restaurant,Chinese Restaurant,1,0.02404874666194544,0.07966740103759505,33.1554,96.8226
+Fullerton,Korean Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Vietnamese Restaurant,1,0.016628888459468402,0.21700660933835547,33.8857,117.928
+Gainesville,Mexican Restaurant,Chinese Restaurant,Bar,Japanese Restaurant,Breakfast Spot,1,0.016072920876156933,0.06882950749769029,29.6788,82.3461
+Garden Grove,Vietnamese Restaurant,Korean Restaurant,Chinese Restaurant,Seafood Restaurant,Mexican Restaurant,4,0.02058867311109264,0.33895956222016915,33.7788,117.9605
+Garland,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.028779329089267523,0.1402530026295217,32.9098,96.6303
+Gilbert,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,Seafood Restaurant,3,0.0304809377487835,0.11768886362021179,33.3103,111.7431
+Glendale,Mexican Restaurant,Chinese Restaurant,Korean Restaurant,Italian Restaurant,Breakfast Spot,1,0.03027306464805453,0.14163883163954233,33.5331,112.1899
+Glendale,Mexican Restaurant,Chinese Restaurant,Korean Restaurant,Italian Restaurant,Breakfast Spot,1,0.023906366182680994,0.22851965034468055,34.1814,118.2458
+Glendale,Mexican Restaurant,Chinese Restaurant,Korean Restaurant,Italian Restaurant,Breakfast Spot,1,0.03027306464805453,0.14163883163954233,33.5331,112.1899
+Glendale,Mexican Restaurant,Chinese Restaurant,Korean Restaurant,Italian Restaurant,Breakfast Spot,1,0.023906366182680994,0.22851965034468055,34.1814,118.2458
+Grand Prairie,Mexican Restaurant,Breakfast Spot,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,2,0.023335404867349252,0.0874848980171985,32.6869,97.0211
+Grand Rapids,American Restaurant,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,Breakfast Spot,0,0.024111480436718236,0.15098429393788643,42.9612,85.6556
+Greeley,Chinese Restaurant,Pizza Place,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.013032431922159261,0.07110368843721128,40.4153,104.7697
+Green Bay,Mexican Restaurant,Italian Restaurant,Thai Restaurant,Chinese Restaurant,Bar,2,0.01254411605772323,0.07607845924241348,44.5207,87.9842
+Greensboro,American Restaurant,Italian Restaurant,Seafood Restaurant,Mexican Restaurant,Japanese Restaurant,0,0.03559032182186559,0.07327126714519223,36.0951,79.827
+Gresham,Mexican Restaurant,American Restaurant,Thai Restaurant,Chinese Restaurant,Japanese Restaurant,1,0.01312023521686994,0.1638476298770521,45.5023,122.4416
+Hampton,Pizza Place,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.016134455152368103,0.08720062539975837,37.048,76.2971
+Hartford,Caribbean Restaurant,Pizza Place,Indian Restaurant,Thai Restaurant,Mexican Restaurant,4,0.014646477186676882,0.24546940515954802,41.7659,72.6816
+Hayward,Mexican Restaurant,Chinese Restaurant,Indian Restaurant,Seafood Restaurant,Italian Restaurant,1,0.01909637695057958,0.11790206808329187,37.6287,122.1024
+Henderson,Italian Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,Seafood Restaurant,4,0.038406624494696236,0.09320588444318101,36.0097,115.0357
+Hialeah,Latin American Restaurant,Chinese Restaurant,American Restaurant,Seafood Restaurant,Pizza Place,4,0.027988979487015248,0.38447871508776915,25.8699,80.3029
+High Point,American Restaurant,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,Vietnamese Restaurant,0,0.013529264226382802,0.06538270201122877,35.99,79.9905
+Hillsboro,American Restaurant,Sushi Restaurant,Pizza Place,Mexican Restaurant,Latin American Restaurant,0,0.01308988790326092,0.14327339918982304,45.528,122.9357
+Hollywood,Mexican Restaurant,Italian Restaurant,Pizza Place,Sushi Restaurant,Caribbean Restaurant,4,0.018570276881452477,0.19163527823182433,26.031,80.1646
+Honolulu,Chinese Restaurant,Japanese Restaurant,Vietnamese Restaurant,Seafood Restaurant,Mexican Restaurant,3,0.04139037716672922,0.20041219529528817,21.3243,157.8476
+Houston,Mexican Restaurant,Seafood Restaurant,Italian Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.278315812857593,0.12216615734489375,29.7866,95.3909
+Huntington Beach,Mexican Restaurant,Italian Restaurant,Thai Restaurant,Japanese Restaurant,Bar,1,0.02389677019418802,0.2588302181792339,33.6906,118.0093
+Huntsville,Mexican Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,Seafood Restaurant,2,0.02405882244986306,0.025939876341411414,34.699,86.67299999999999
+Independence,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.01399478961814803,0.04722478857224078,39.0855,94.3521
+Indianapolis,American Restaurant,Mexican Restaurant,Thai Restaurant,Seafood Restaurant,Italian Restaurant,0,0.10512213474279213,0.07785516310141426,39.7767,86.1459
+Inglewood,Mexican Restaurant,Chinese Restaurant,Caribbean Restaurant,Latin American Restaurant,American Restaurant,1,0.01297269689379052,0.4258759150024874,33.9561,118.3443
+Irvine,Chinese Restaurant,Korean Restaurant,Mexican Restaurant,Japanese Restaurant,Indian Restaurant,4,0.03447370861085232,0.1379432876128207,33.6784,117.7713
+Irving,Mexican Restaurant,Indian Restaurant,Italian Restaurant,American Restaurant,Thai Restaurant,1,0.028763735607966447,0.12017624902281288,32.8577,96.97
+Jackson,Chinese Restaurant,American Restaurant,Bar,Vietnamese Restaurant,Thai Restaurant,0,0.019267305495610614,0.047935470115841095,32.3158,90.2128
+Jacksonville,Caribbean Restaurant,American Restaurant,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,0,0.10933513354077462,0.03564067941155568,30.3369,81.6616
+Jersey City,Chinese Restaurant,Latin American Restaurant,Italian Restaurant,Indian Restaurant,American Restaurant,4,0.031435858553690216,0.6279937460024163,40.7114,74.0648
+Joliet,American Restaurant,Mexican Restaurant,Italian Restaurant,Japanese Restaurant,Chinese Restaurant,0,0.01767389160635288,0.07558098216189325,41.5177,88.1488
+Jurupa Valley,American Restaurant,Pizza Place,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,0,0.013137747895869611,0.079560798806055,34.0026,117.4676
+Kansas City,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Mexican Restaurant,Italian Restaurant,3,0.05941440240321936,0.04807760642456115,39.1251,94.551
+Kansas City,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Mexican Restaurant,Italian Restaurant,3,0.018347529998559403,0.03699097434439628,39.1225,94.7418
+Kansas City,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Mexican Restaurant,Italian Restaurant,3,0.05941440240321936,0.04807760642456115,39.1251,94.551
+Kansas City,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Mexican Restaurant,Italian Restaurant,3,0.018347529998559403,0.03699097434439628,39.1225,94.7418
+Kent,Chinese Restaurant,Mexican Restaurant,Thai Restaurant,American Restaurant,Italian Restaurant,1,0.015871645017516877,0.12824248454267642,47.388000000000005,122.2127
+Killeen,Italian Restaurant,American Restaurant,Thai Restaurant,Mexican Restaurant,Indian Restaurant,0,0.018192314884685607,0.08901286333593916,31.0777,97.73200000000001
+Knoxville,American Restaurant,Italian Restaurant,Indian Restaurant,Breakfast Spot,Pizza Place,0,0.022502952865584073,0.06097647644090683,35.9707,83.9493
+Lafayette,Mexican Restaurant,Italian Restaurant,Thai Restaurant,Seafood Restaurant,Latin American Restaurant,1,0.015135872599818372,0.07806836756449435,30.2074,92.0285
+Lakeland,American Restaurant,Caribbean Restaurant,Breakfast Spot,Thai Restaurant,Mexican Restaurant,0,0.013450697070596608,0.05116907113922251,28.0555,81.9549
+Lakewood,Pizza Place,Mexican Restaurant,Italian Restaurant,Indian Restaurant,Chinese Restaurant,1,0.018944280532966,0.12166868026437354,39.6989,105.1176
+Lakewood,Pizza Place,Mexican Restaurant,Italian Restaurant,Indian Restaurant,Chinese Restaurant,1,0.012750669710034418,0.13872503731078104,40.0771,74.2004
+Lakewood,Pizza Place,Mexican Restaurant,Italian Restaurant,Indian Restaurant,Chinese Restaurant,1,0.018944280532966,0.12166868026437354,39.6989,105.1176
+Lakewood,Pizza Place,Mexican Restaurant,Italian Restaurant,Indian Restaurant,Chinese Restaurant,1,0.012750669710034418,0.13872503731078104,40.0771,74.2004
+Lancaster,Mexican Restaurant,Thai Restaurant,Bar,Sushi Restaurant,Latin American Restaurant,2,0.018904217281007846,0.054118399545163814,34.6936,118.1753
+Lansing,Mexican Restaurant,Chinese Restaurant,Bar,American Restaurant,Vietnamese Restaurant,1,0.014179272496925386,0.09921114348660365,42.7143,84.5593
+Laredo,Mexican Restaurant,Seafood Restaurant,Sushi Restaurant,Chinese Restaurant,Bar,2,0.03148575769385366,0.08418022883945704,27.5604,99.4892
+Las Cruces,Mexican Restaurant,Italian Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.012406653522561428,0.04079312060265795,32.3264,106.7897
+Las Vegas,Mexican Restaurant,Chinese Restaurant,Italian Restaurant,Thai Restaurant,Seafood Restaurant,1,0.07812562036566234,0.16111150593419088,36.2292,115.2601
+League City,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.01289892773225081,0.06456541823608841,29.4901,95.1091
+Lewisville,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.013099963691178539,0.09512472461090185,33.0466,96.9818
+Lexington,Mexican Restaurant,American Restaurant,Japanese Restaurant,Thai Restaurant,Sushi Restaurant,1,0.03876203591850463,0.03368630516665482,38.0407,84.4583
+Lincoln,Mexican Restaurant,American Restaurant,Pizza Place,Vietnamese Restaurant,Thai Restaurant,1,0.034677743316184104,0.10194726742946486,40.8105,96.6803
+Little Rock,Mexican Restaurant,Vietnamese Restaurant,Korean Restaurant,Chinese Restaurant,Thai Restaurant,2,0.02366754601906219,0.05323004761566342,34.7254,92.3586
+Long Beach,Mexican Restaurant,Thai Restaurant,Japanese Restaurant,Chinese Restaurant,American Restaurant,1,0.05549216205657387,0.3259185558951034,33.8092,118.1553
+Los Angeles,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,Japanese Restaurant,American Restaurant,4,0.4773495687862646,0.2952526472887499,34.0194,118.4108
+Louisville,Seafood Restaurant,Mexican Restaurant,Indian Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.07408558926026564,0.07689574301755384,38.1654,85.6474
+Lowell,Chinese Restaurant,Vietnamese Restaurant,Mexican Restaurant,American Restaurant,Sushi Restaurant,4,0.013314074184427942,0.28263804988984437,42.638999999999996,71.3211
+Lubbock,Chinese Restaurant,Thai Restaurant,Mexican Restaurant,Pizza Place,Indian Restaurant,3,0.03105045966584129,0.06580911093738896,33.5656,101.8867
+Macon,Mexican Restaurant,Seafood Restaurant,Indian Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.018371400019935667,0.015528391727666832,32.8088,83.6942
+Madison,Thai Restaurant,Japanese Restaurant,Italian Restaurant,Bar,American Restaurant,4,0.031148578648181914,0.11033330964394855,43.0878,89.4299
+Manchester,American Restaurant,Chinese Restaurant,Pizza Place,Mexican Restaurant,Seafood Restaurant,0,0.013515110143355671,0.11242982019756947,42.9849,71.4441
+McAllen,Mexican Restaurant,Chinese Restaurant,American Restaurant,Seafood Restaurant,Korean Restaurant,2,0.017184975992636038,0.08030701442683534,26.2322,98.2464
+McKinney,Mexican Restaurant,Italian Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,2,0.023891252500804563,0.09096723758084002,33.1985,96.66799999999999
+Memphis,Bar,Seafood Restaurant,Mexican Restaurant,Korean Restaurant,Chinese Restaurant,4,0.07809611270104645,0.06683959917560942,35.1028,89.9774
+Meridian,Chinese Restaurant,Italian Restaurant,Thai Restaurant,American Restaurant,Vietnamese Restaurant,3,0.013693595529324922,0.1211356691066733,43.6142,116.3989
+Mesa,American Restaurant,Chinese Restaurant,Mexican Restaurant,Japanese Restaurant,Italian Restaurant,0,0.06213546489025728,0.11864828370407221,33.4019,111.7174
+Mesquite,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,2,0.016905372877922112,0.10198280150664488,32.7629,96.5888
+Miami,Mexican Restaurant,Latin American Restaurant,Italian Restaurant,American Restaurant,Seafood Restaurant,4,0.05613209453919883,0.44147537488451427,25.7752,80.2086
+Miami Gardens,Caribbean Restaurant,Chinese Restaurant,Seafood Restaurant,Vietnamese Restaurant,Thai Restaurant,4,0.013194604127690461,0.2145192239357544,25.9489,80.2436
+Midland,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,American Restaurant,Pizza Place,1,0.017517237094205138,0.05806268211214555,32.0246,102.1135
+Milwaukee,Chinese Restaurant,American Restaurant,Mexican Restaurant,Vietnamese Restaurant,Thai Restaurant,3,0.07078924726307415,0.21359533792907398,43.0633,87.9667
+Minneapolis,Bar,American Restaurant,Vietnamese Restaurant,Thai Restaurant,Mexican Restaurant,4,0.05153117790638801,0.265972567692417,44.9633,93.2683
+Miramar,Italian Restaurant,Sushi Restaurant,Seafood Restaurant,Pizza Place,Latin American Restaurant,4,0.016935840141387295,0.16111150593419088,25.976999999999997,80.3358
+Mobile,Caribbean Restaurant,Breakfast Spot,Bar,Vietnamese Restaurant,Thai Restaurant,4,0.02263693685491717,0.0429606993106389,30.6684,88.1002
+Modesto,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Italian Restaurant,American Restaurant,1,0.025812729246665726,0.1691066732996944,37.6375,121.00299999999999
+Montgomery,Chinese Restaurant,Seafood Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.023813045194586855,0.03827020112287684,32.3472,86.2661
+Moreno Valley,Mexican Restaurant,Seafood Restaurant,Vietnamese Restaurant,Japanese Restaurant,Italian Restaurant,2,0.025555916604622603,0.1361310496766399,33.9233,117.2057
+Murfreesboro,Mexican Restaurant,American Restaurant,Indian Restaurant,Italian Restaurant,Chinese Restaurant,1,0.017620633870216895,0.07764195863833416,35.8522,86.416
+Murrieta,Italian Restaurant,Pizza Place,Thai Restaurant,Mexican Restaurant,Bar,4,0.013940932132731234,0.11189680903986923,33.5721,117.1904
+Naperville,Thai Restaurant,Sushi Restaurant,Pizza Place,Japanese Restaurant,Italian Restaurant,4,0.017806436197412033,0.1288820979319167,41.7492,88.162
+Nashville,American Restaurant,Mexican Restaurant,Italian Restaurant,Thai Restaurant,Sushi Restaurant,0,0.08046476251068004,0.043102835619358966,36.1718,86.785
+New Haven,Pizza Place,Italian Restaurant,Chinese Restaurant,American Restaurant,Japanese Restaurant,4,0.015623468765117431,0.2406723047402459,41.3108,72.925
+New Orleans,Vietnamese Restaurant,Seafood Restaurant,Thai Restaurant,Sushi Restaurant,Pizza Place,4,0.04679771668251804,0.0759007888565134,30.0534,89.9345
+New York,Caribbean Restaurant,Chinese Restaurant,Thai Restaurant,Pizza Place,Breakfast Spot,4,1.0,1.0,40.6635,73.9387
+Newark,Italian Restaurant,Chinese Restaurant,American Restaurant,Breakfast Spot,Vietnamese Restaurant,4,0.03382717888613844,0.40921043280506003,40.7242,74.1726
+Newport News,Chinese Restaurant,Italian Restaurant,Seafood Restaurant,Korean Restaurant,Japanese Restaurant,4,0.021498012970657746,0.0872716935541184,37.0762,76.52199999999999
+Norfolk,Chinese Restaurant,Sushi Restaurant,Pizza Place,Caribbean Restaurant,American Restaurant,3,0.029116867984507758,0.15720275744438916,36.923,76.2446
+North Charleston,Italian Restaurant,Chinese Restaurant,Thai Restaurant,Seafood Restaurant,Vietnamese Restaurant,4,0.013840054303698881,0.04647857295146045,32.9178,80.065
+North Las Vegas,Mexican Restaurant,Chinese Restaurant,Bar,Vietnamese Restaurant,Thai Restaurant,2,0.03022424505659654,0.08034254850401536,36.2857,115.0939
+Norwalk,Mexican Restaurant,Chinese Restaurant,Korean Restaurant,Thai Restaurant,Pizza Place,1,0.01246866759819725,0.3827375453059484,33.9076,118.0835
+Oakland,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,Sushi Restaurant,Bar,1,0.05194200616374331,0.26078459242413476,37.7698,122.2257
+Oceanside,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,American Restaurant,Vietnamese Restaurant,2,0.021080227621645048,0.1447658304313837,33.2245,117.3062
+Odessa,Seafood Restaurant,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,Vietnamese Restaurant,1,0.01479389555990014,0.08645440977897804,31.8838,102.3411
+Oklahoma City,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,1,0.07857399292799638,0.03119891976405373,35.4671,97.5137
+Olathe,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,Indian Restaurant,American Restaurant,1,0.016858352534306557,0.07284485821903205,38.8843,94.8195
+Omaha,American Restaurant,Vietnamese Restaurant,Sushi Restaurant,Italian Restaurant,Chinese Restaurant,0,0.05735906161788126,0.11303389950962973,41.2644,96.0451
+Ontario,Mexican Restaurant,Italian Restaurant,Breakfast Spot,American Restaurant,Vietnamese Restaurant,1,0.02219192288855567,0.11712031838533153,34.0394,117.6042
+Orange,Mexican Restaurant,American Restaurant,Italian Restaurant,Thai Restaurant,Japanese Restaurant,1,0.016633326604146403,0.19035605145334375,33.787,117.8613
+Overland Park,Chinese Restaurant,Thai Restaurant,Mexican Restaurant,Korean Restaurant,Japanese Restaurant,3,0.02344947718055944,0.0831852746784166,38.889,94.6906
+Oxnard,Mexican Restaurant,Chinese Restaurant,American Restaurant,Seafood Restaurant,Pizza Place,1,0.025055245905001872,0.2684244190178381,34.2023,119.2046
+Palm Bay,Chinese Restaurant,Caribbean Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.013860445779246444,0.05333664984720347,27.9856,80.6626
+Palmdale,Mexican Restaurant,Thai Restaurant,Sushi Restaurant,Latin American Restaurant,American Restaurant,1,0.018601703743766955,0.046514107028640464,34.591,118.1054
+Pasadena,Mexican Restaurant,American Restaurant,Italian Restaurant,Seafood Restaurant,Japanese Restaurant,1,0.018139656897830432,0.11903915855305237,29.6586,95.1506
+Pasadena,Mexican Restaurant,American Restaurant,Italian Restaurant,Seafood Restaurant,Japanese Restaurant,1,0.01691640826468903,0.21323999715727382,34.1606,118.1396
+Pasadena,Mexican Restaurant,American Restaurant,Italian Restaurant,Seafood Restaurant,Japanese Restaurant,1,0.018139656897830432,0.11903915855305237,29.6586,95.1506
+Pasadena,Mexican Restaurant,American Restaurant,Italian Restaurant,Seafood Restaurant,Japanese Restaurant,1,0.01691640826468903,0.21323999715727382,34.1606,118.1396
+Paterson,Latin American Restaurant,Caribbean Restaurant,Chinese Restaurant,Pizza Place,Vietnamese Restaurant,4,0.017420677459994625,0.6156278871437709,40.9148,74.1628
+Pearland,Mexican Restaurant,Sushi Restaurant,Vietnamese Restaurant,Thai Restaurant,Seafood Restaurant,2,0.014689059385614437,0.08094662781607562,29.5558,95.3231
+Pembroke Pines,Italian Restaurant,Mexican Restaurant,Japanese Restaurant,Sushi Restaurant,Pizza Place,4,0.020822215481040306,0.17532513680619713,26.021,80.3404
+Peoria,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Seafood Restaurant,1,0.021106496640144554,0.026970364579631867,33.7862,112.30799999999999
+Peoria,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Seafood Restaurant,1,0.013244503267853907,0.07803283348731434,40.7515,89.6174
+Peoria,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Seafood Restaurant,1,0.021106496640144554,0.026970364579631867,33.7862,112.30799999999999
+Peoria,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Seafood Restaurant,1,0.013244503267853907,0.07803283348731434,40.7515,89.6174
+Philadelphia,Chinese Restaurant,Pizza Place,Latin American Restaurant,American Restaurant,Bar,4,0.19000824895160828,0.4089261601876199,40.0094,75.1333
+Phoenix,Mexican Restaurant,American Restaurant,Seafood Restaurant,Pizza Place,Latin American Restaurant,1,0.20163474860969122,0.10464785729514604,33.5722,112.0901
+Pittsburgh,Pizza Place,Indian Restaurant,Chinese Restaurant,American Restaurant,Mexican Restaurant,4,0.036019262507501364,0.18854381351716296,40.4398,79.9766
+Plano,Chinese Restaurant,Mexican Restaurant,Japanese Restaurant,Italian Restaurant,Sushi Restaurant,3,0.03450681477115307,0.13556250444175966,33.0508,96.7479
+Pomona,Mexican Restaurant,Chinese Restaurant,Seafood Restaurant,Korean Restaurant,Caribbean Restaurant,2,0.01819531363108966,0.2293724681970009,34.0585,117.7611
+Pompano Beach,Italian Restaurant,Caribbean Restaurant,Mexican Restaurant,Chinese Restaurant,Seafood Restaurant,4,0.01344853797318569,0.15574586028000853,26.2416,80.1339
+Port St. Lucie,Italian Restaurant,American Restaurant,Pizza Place,Mexican Restaurant,Chinese Restaurant,0,0.02421139866690129,0.049108094662781605,27.2806,80.3883
+Portland,Chinese Restaurant,Thai Restaurant,American Restaurant,Bar,Mexican Restaurant,4,0.07853608877344914,0.1640963684173122,45.537,122.65
+Providence,Italian Restaurant,Chinese Restaurant,Mexican Restaurant,American Restaurant,Thai Restaurant,4,0.021576939976012427,0.33988344822684957,41.8231,71.4188
+Provo,Chinese Restaurant,Japanese Restaurant,Thai Restaurant,Mexican Restaurant,Latin American Restaurant,4,0.013988312325915275,0.09338355482908109,40.2453,111.6448
+Pueblo,Mexican Restaurant,Italian Restaurant,Sushi Restaurant,Japanese Restaurant,Chinese Restaurant,1,0.013477685788233088,0.06691066732996943,38.2699,104.6123
+Raleigh,American Restaurant,Mexican Restaurant,Italian Restaurant,Sushi Restaurant,Chinese Restaurant,0,0.0568645083609248,0.10617582261388672,35.8306,78.6418
+Rancho Cucamonga,Mexican Restaurant,American Restaurant,Sushi Restaurant,Pizza Place,Korean Restaurant,1,0.02130345430396277,0.15059341908890625,34.1233,117.5642
+Reno,Mexican Restaurant,Chinese Restaurant,Bar,American Restaurant,Vietnamese Restaurant,1,0.030659303184896586,0.07501243692701301,39.5491,119.8499
+Renton,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,American Restaurant,1,0.012205017814352888,0.1470755454480847,47.4761,122.19200000000001
+Rialto,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,Latin American Restaurant,Korean Restaurant,1,0.01241792880904067,0.1584109160685097,34.1118,117.3883
+Richardson,Chinese Restaurant,Vietnamese Restaurant,Indian Restaurant,Sushi Restaurant,Mexican Restaurant,4,0.014552676399158096,0.13460308435789922,32.9723,96.7081
+Richmond,Chinese Restaurant,Mexican Restaurant,Pizza Place,Seafood Restaurant,American Restaurant,1,0.027640765054576584,0.1263947125293156,37.5314,77.476
+Richmond,Chinese Restaurant,Mexican Restaurant,Pizza Place,Seafood Restaurant,American Restaurant,1,0.013262495746278226,0.1234098500461943,37.9523,122.3606
+Richmond,Chinese Restaurant,Mexican Restaurant,Pizza Place,Seafood Restaurant,American Restaurant,1,0.027640765054576584,0.1263947125293156,37.5314,77.476
+Richmond,Chinese Restaurant,Mexican Restaurant,Pizza Place,Seafood Restaurant,American Restaurant,1,0.013262495746278226,0.1234098500461943,37.9523,122.3606
+Riverside,Mexican Restaurant,American Restaurant,Thai Restaurant,Sushi Restaurant,Japanese Restaurant,1,0.03974658433788339,0.1358823111363798,33.9381,117.3932
+Rochester,American Restaurant,Chinese Restaurant,Italian Restaurant,Mexican Restaurant,Caribbean Restaurant,0,0.024673085663269326,0.2011228768388885,43.1699,77.6169
+Rochester,American Restaurant,Chinese Restaurant,Italian Restaurant,Mexican Restaurant,Caribbean Restaurant,0,0.01426623614264293,0.0679766896453699,44.0154,92.4772
+Rochester,American Restaurant,Chinese Restaurant,Italian Restaurant,Mexican Restaurant,Caribbean Restaurant,0,0.024673085663269326,0.2011228768388885,43.1699,77.6169
+Rochester,American Restaurant,Chinese Restaurant,Italian Restaurant,Mexican Restaurant,Caribbean Restaurant,0,0.01426623614264293,0.0679766896453699,44.0154,92.4772
+Rockford,Mexican Restaurant,Vietnamese Restaurant,Pizza Place,Italian Restaurant,American Restaurant,1,0.017465778605911586,0.07639826593703361,42.2588,89.0646
+Roseville,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Pizza Place,Mexican Restaurant,0,0.016972904646941393,0.1034041645938455,38.769,121.3189
+Round Rock,Mexican Restaurant,American Restaurant,Pizza Place,Indian Restaurant,Chinese Restaurant,2,0.0159979522160556,0.11445526259683036,30.5252,97.666
+Sacramento,Chinese Restaurant,Mexican Restaurant,Thai Restaurant,American Restaurant,Japanese Restaurant,4,0.06160912492141785,0.17354843294719635,38.5666,121.4686
+Saint Paul,Vietnamese Restaurant,Italian Restaurant,Mexican Restaurant,Bar,Thai Restaurant,4,0.0369560708841276,0.20041219529528817,44.9489,93.1041
+Salem,Mexican Restaurant,Chinese Restaurant,American Restaurant,Italian Restaurant,Vietnamese Restaurant,1,0.020915056669709796,0.11619643237865113,44.9237,123.0232
+Salinas,Mexican Restaurant,Chinese Restaurant,American Restaurant,Japanese Restaurant,Seafood Restaurant,1,0.01864800438824554,0.23050955866676143,36.6902,121.6337
+Salt Lake City,American Restaurant,Mexican Restaurant,Italian Restaurant,Sushi Restaurant,Indian Restaurant,0,0.024057982800869925,0.0556818989410845,40.7769,111.931
+San Angelo,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,1,0.012115415271799776,0.05351432023310355,31.4411,100.4505
+San Antonio,Mexican Restaurant,American Restaurant,Thai Restaurant,Seafood Restaurant,Latin American Restaurant,2,0.1855927747964241,0.10884087840238789,29.4724,98.5251
+San Bernardino,Mexican Restaurant,Vietnamese Restaurant,Seafood Restaurant,Chinese Restaurant,Caribbean Restaurant,2,0.025883259762089057,0.11871935185843224,34.1416,117.2936
+San Diego,Chinese Restaurant,Korean Restaurant,Italian Restaurant,Vietnamese Restaurant,Thai Restaurant,4,0.17079072264630493,0.1474664202970649,32.8153,117.135
+San Jose,Vietnamese Restaurant,Chinese Restaurant,Seafood Restaurant,Mexican Restaurant,Japanese Restaurant,4,0.1225641632771836,0.19906190036244759,37.2967,121.8189
+San Mateo,Chinese Restaurant,Mexican Restaurant,Japanese Restaurant,American Restaurant,Thai Restaurant,4,0.012526363479011234,0.2990903276241916,37.5603,122.3106
+Sandy Springs,Thai Restaurant,Italian Restaurant,American Restaurant,Japanese Restaurant,Mexican Restaurant,0,0.013128751656657452,0.0934190889062611,33.9315,84.3687
+Santa Ana,Mexican Restaurant,Vietnamese Restaurant,Latin American Restaurant,Breakfast Spot,American Restaurant,2,0.03986149630008671,0.4320233103546301,33.7363,117.883
+Santa Clara,Korean Restaurant,Indian Restaurant,Vietnamese Restaurant,Chinese Restaurant,Thai Restaurant,4,0.015637262998576075,0.2370122947907043,37.3646,121.9679
+Santa Clarita,Mexican Restaurant,Japanese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,2,0.025546800415554283,0.11623196645583114,34.403,118.5042
+Santa Maria,Mexican Restaurant,Chinese Restaurant,Sushi Restaurant,American Restaurant,Korean Restaurant,1,0.012866181421518548,0.15944140430673015,34.9332,120.4438
+Santa Rosa,Mexican Restaurant,Chinese Restaurant,Indian Restaurant,American Restaurant,Thai Restaurant,1,0.02120149692622496,0.14448155781394356,38.4468,122.7061
+Savannah,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.017328436020605947,0.04413332385757942,32.0025,81.1536
+Seattle,Vietnamese Restaurant,Thai Restaurant,Seafood Restaurant,Japanese Restaurant,Chinese Restaurant,4,0.09040320784299331,0.2924454551915287,47.6205,122.3509
+Shreveport,Seafood Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,3,0.022444057486208466,0.05845355696112572,32.4669,93.7922
+Simi Valley,Mexican Restaurant,Sushi Restaurant,Japanese Restaurant,Chinese Restaurant,Thai Restaurant,1,0.015067261282093633,0.10194726742946486,34.2669,118.7485
+Sioux Falls,American Restaurant,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Latin American Restaurant,0,0.022045943913606356,0.07593632293369341,43.5383,96.73200000000001
+South Bend,Mexican Restaurant,Italian Restaurant,American Restaurant,Breakfast Spot,Thai Restaurant,0,0.012238004024797473,0.08108876412479568,41.6769,86.26899999999999
+Sparks,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.012595454596160622,0.0936322933693412,39.5544,119.7356
+Spokane,American Restaurant,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,Breakfast Spot,0,0.02663858400634199,0.10550067514746642,47.6669,117.4333
+Spokane Valley,Mexican Restaurant,American Restaurant,Seafood Restaurant,Pizza Place,Breakfast Spot,1,0.012122132463744856,0.08904839741311918,47.6733,117.2394
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,1,0.020137421752210706,0.06602231540046904,37.1942,93.2913
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,1,0.018425017605640137,0.16541112927297277,42.1155,72.54
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,1,0.013701872069400108,0.06218463506502736,39.7911,89.6446
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,4,0.020137421752210706,0.06602231540046904,37.1942,93.2913
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,4,0.018425017605640137,0.16541112927297277,42.1155,72.54
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,4,0.013701872069400108,0.06218463506502736,39.7911,89.6446
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,1,0.020137421752210706,0.06602231540046904,37.1942,93.2913
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,1,0.018425017605640137,0.16541112927297277,42.1155,72.54
+Springfield,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,American Restaurant,Pizza Place,1,0.013701872069400108,0.06218463506502736,39.7911,89.6446
+St. Louis,Italian Restaurant,Bar,American Restaurant,Japanese Restaurant,Chinese Restaurant,4,0.03605404796578838,0.1722692061687158,38.6357,90.2446
+St. Petersburg,American Restaurant,Thai Restaurant,Seafood Restaurant,Pizza Place,Japanese Restaurant,0,0.03182881428247735,0.1438419444247033,27.761999999999997,82.6441
+Stamford,Italian Restaurant,Chinese Restaurant,Mexican Restaurant,Latin American Restaurant,Pizza Place,4,0.015550059453146206,0.11580555752967095,41.0799,73.546
+Sterling Heights,Italian Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,0,0.015885919050400172,0.12269916850259399,42.5812,83.0303
+Stockton,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Italian Restaurant,American Restaurant,1,0.03750796017232956,0.17063463861843509,37.9763,121.3133
+Sugar Land,Mexican Restaurant,Indian Restaurant,Chinese Restaurant,American Restaurant,Sushi Restaurant,1,0.014212618556938457,0.1177243976973918,29.5994,95.6142
+Sunnyvale,Chinese Restaurant,Indian Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,4,0.018316702885525733,0.24053016843152583,37.3858,122.0263
+Syracuse,American Restaurant,Chinese Restaurant,Italian Restaurant,Korean Restaurant,Thai Restaurant,0,0.017072103177987474,0.19756946912088694,43.041000000000004,76.1436
+Tacoma,American Restaurant,Mexican Restaurant,Vietnamese Restaurant,Bar,Seafood Restaurant,0,0.02612831731822829,0.14483689858574372,47.2522,122.4598
+Tallahassee,Mexican Restaurant,Seafood Restaurant,Italian Restaurant,Chinese Restaurant,American Restaurant,1,0.02333024702353428,0.06133181721270699,30.4551,84.2534
+Tampa,Italian Restaurant,Latin American Restaurant,Bar,American Restaurant,Chinese Restaurant,4,0.04794395750800336,0.11196787719422926,27.9701,82.4797
+Temecula,American Restaurant,Mexican Restaurant,Thai Restaurant,Sushi Restaurant,Korean Restaurant,0,0.0137655654430222,0.10148532442612465,33.4931,117.1317
+Tempe,Thai Restaurant,Mexican Restaurant,Seafood Restaurant,Chinese Restaurant,Vietnamese Restaurant,1,0.023486781585825862,0.1558879965887286,33.3884,111.9318
+Thornton,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,Sushi Restaurant,2,0.016968586452119554,0.12984151801577712,39.9194,104.9428
+Thousand Oaks,Mexican Restaurant,Italian Restaurant,Pizza Place,Chinese Restaurant,Bar,1,0.01521120110948819,0.07675360670883377,34.1933,118.8742
+Toledo,Chinese Restaurant,Pizza Place,Mexican Restaurant,Caribbean Restaurant,Vietnamese Restaurant,3,0.032719801814049654,0.11640963684173122,41.6641,83.5819
+Topeka,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.015030916475676509,0.0670528036386895,39.0347,95.6962
+Torrance,American Restaurant,Chinese Restaurant,Mexican Restaurant,Indian Restaurant,Japanese Restaurant,4,0.01722383974603257,0.24891621064600952,33.835,118.3414
+Tulsa,Vietnamese Restaurant,American Restaurant,Mexican Restaurant,Chinese Restaurant,Thai Restaurant,0,0.04812268279368493,0.06655532655816929,36.1279,95.9023
+Tuscaloosa,Chinese Restaurant,Thai Restaurant,Seafood Restaurant,Mexican Restaurant,Italian Restaurant,3,0.012130409003820043,0.043493710468339136,33.2065,87.5346
+Tyler,Mexican Restaurant,Italian Restaurant,Chinese Restaurant,American Restaurant,Japanese Restaurant,1,0.012832835361505476,0.05959064743088622,32.3173,95.3059
+Vacaville,Chinese Restaurant,Mexican Restaurant,American Restaurant,Thai Restaurant,Italian Restaurant,3,0.012075352019841626,0.11633856868737119,38.3539,121.9728
+Vallejo,Mexican Restaurant,Chinese Restaurant,Breakfast Spot,Vietnamese Restaurant,Thai Restaurant,2,0.014596937896081921,0.13417667543173903,38.1079,122.264
+Vancouver,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Japanese Restaurant,1,0.022126310317234985,0.12625257622059555,45.6349,122.5957
+Ventura,Seafood Restaurant,Mexican Restaurant,Italian Restaurant,Sushi Restaurant,Japanese Restaurant,1,0.013087249006425354,0.17241134247743586,34.2678,119.2542
+Victorville,Sushi Restaurant,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant,Thai Restaurant,1,0.014680063146402278,0.053052377229763345,34.5277,117.3536
+Virginia Beach,Chinese Restaurant,Mexican Restaurant,Italian Restaurant,Vietnamese Restaurant,Thai Restaurant,3,0.053974316576698274,0.05951957927652619,36.78,76.0252
+Visalia,Mexican Restaurant,American Restaurant,Sushi Restaurant,Chinese Restaurant,Italian Restaurant,1,0.016145850388703507,0.1179731362376519,36.3273,119.3289
+Vista,Mexican Restaurant,Italian Restaurant,American Restaurant,Latin American Restaurant,Japanese Restaurant,1,0.012191463480606568,0.18694478004406226,33.1895,117.2386
+Waco,Mexican Restaurant,Italian Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,0,0.01670133817259033,0.047437993035320876,31.5601,97.186
+Warren,Chinese Restaurant,American Restaurant,Italian Restaurant,Thai Restaurant,Breakfast Spot,0,0.016066443583924176,0.13335939165659869,42.4929,83.025
+Washington,American Restaurant,Bar,Latin American Restaurant,Chinese Restaurant,Vietnamese Restaurant,0,0.08465449103656707,0.3899154288963116,38.9041,77.0172
+Waterbury,Italian Restaurant,American Restaurant,Chinese Restaurant,Caribbean Restaurant,Bar,4,0.012902766127647998,0.12877549570037666,41.5585,73.0367
+West Covina,Mexican Restaurant,Japanese Restaurant,Chinese Restaurant,American Restaurant,Thai Restaurant,1,0.012606849832496023,0.23328121668680266,34.0559,117.9099
+West Jordan,Sushi Restaurant,Mexican Restaurant,Vietnamese Restaurant,Thai Restaurant,Seafood Restaurant,2,0.0139717592457649,0.1188614881671523,40.6024,112.0008
+West Palm Beach,Chinese Restaurant,Caribbean Restaurant,Vietnamese Restaurant,Sushi Restaurant,Pizza Place,4,0.013428986146631263,0.06353492999786796,26.7464,80.1251
+West Valley City,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.016222978146215757,0.1304811314050174,40.6885,112.0118
+Westminster,Chinese Restaurant,Vietnamese Restaurant,Mexican Restaurant,American Restaurant,Italian Restaurant,4,0.013574245422443601,0.12141994172411343,39.8822,105.0644
+Wichita,Mexican Restaurant,Chinese Restaurant,American Restaurant,Vietnamese Restaurant,Sushi Restaurant,1,0.04677300701214864,0.08016487811811528,37.6907,97.3459
+Wichita Falls,Mexican Restaurant,Italian Restaurant,American Restaurant,Vietnamese Restaurant,Thai Restaurant,2,0.012556710792620253,0.04530594840451994,33.9067,98.5259
+Wilmington,Seafood Restaurant,Italian Restaurant,Chinese Restaurant,Sushi Restaurant,Mexican Restaurant,4,0.014843075000926612,0.07472816430957288,34.2092,77.8858
+Winston–Salem,American Restaurant,Chinese Restaurant,Italian Restaurant,Thai Restaurant,Japanese Restaurant,0,0.02974096708611932,0.058737829578565846,36.1027,80.26100000000001
+Woodbridge,Indian Restaurant,Pizza Place,Italian Restaurant,Chinese Restaurant,Sushi Restaurant,4,0.012012378345356508,0.14839030630374528,40.5607,74.2927
+Worcester,Chinese Restaurant,Italian Restaurant,Bar,Vietnamese Restaurant,American Restaurant,4,0.02224206192843144,0.1690711392225144,42.2695,71.8078
+Yonkers,Chinese Restaurant,Italian Restaurant,Pizza Place,Mexican Restaurant,Bar,4,0.024034352679205985,0.39019970151375166,40.9459,73.8674
